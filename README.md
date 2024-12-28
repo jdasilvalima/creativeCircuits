@@ -31,9 +31,15 @@ The goal is to explore the possibilities of integrating hardware and software fo
 - 1 Breadboard
 
 Schema :
-
-![Ultrasonic Sensor Project Schema](./readme-doc/ultrasonicSchema.png)
+<p align="center">
+  <img src="./readme-doc/ultrasonicSchema.png" alt="Ultrasonic Sensor Project Schema">
+</p>
 
 ### II.2 Visual :
+<p align="center">
+  <img src="./readme-doc/ultrasonicSensor.gif" alt="Ultrasonic Sensor Project Gif">
+</p>
 
-
+## III. REFERENCES :
+- TouchDesigner [Wiki](https://docs.derivative.ca/Main_Page)
+- Introduction [Arduino + TouchDesigner](https://jmarsico.github.io/rsma2019/tutorials/)
