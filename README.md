@@ -19,8 +19,13 @@ The goal is to explore the possibilities of integrating hardware and software fo
 
 ### I.3 Softwares used :
 - https://www.tinkercad.com/
+- https://www.circuito.io/
 - https://www.arduino.cc/en/software
 - https://derivative.ca/
+
+### I.4 References :
+- TouchDesigner [Wiki](https://docs.derivative.ca/Main_Page)
+- Introduction [Arduino + TouchDesigner](https://jmarsico.github.io/rsma2019/tutorials/)
 
 ## II. Ultrasonic Sensor Project
 ### II.1 Electronics used :
@@ -32,7 +37,7 @@ The goal is to explore the possibilities of integrating hardware and software fo
 
 Schema :
 <p align="center">
-  <img src="./readme-doc/ultrasonicSchema.png" alt="Ultrasonic Sensor Project Schema">
+  <img src="./readme-doc/ultrasonicSchema.png" alt="Ultrasonic Sensor Project Schema" style="width:80%;">
 </p>
 
 ### II.2 Visual :
@@ -40,6 +45,22 @@ Schema :
   <img src="./readme-doc/ultrasonicSensor.gif" alt="Ultrasonic Sensor Project Gif">
 </p>
 
-## III. REFERENCES :
-- TouchDesigner [Wiki](https://docs.derivative.ca/Main_Page)
-- Introduction [Arduino + TouchDesigner](https://jmarsico.github.io/rsma2019/tutorials/)
+## III. Sound Sensor Project
+### III.1 Electronics used :
+
+https://randomnerdtutorials.com/guide-for-microphone-sound-sensor-with-arduino/
+https://www.youtube.com/watch?v=dPXkWLHYCQk&ab_channel=Acrylicode
+https://www.youtube.com/watch?v=ua4zKWJg22g&ab_channel=Ab_out
+
+- 1 Sound Sensor
+- 1 Arduino Uno
+- 1 Power Cable
+- Some cables to connect Arduino and the Sensor
+- 1 Breadboard
+
+Schema :
+<p align="center">
+  <img src="./readme-doc/soundSchema.png" alt="Sound Sensor Project Schema" style="width:80%;">
+</p>
+
+### III.2 Visual :
